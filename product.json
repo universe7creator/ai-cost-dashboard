@@ -1,0 +1,26 @@
+{
+  "name": "AI Cost Dashboard",
+  "slug": "ai-cost-dashboard",
+  "tagline": "Track and optimize your LLM API spending across providers",
+  "description": "Calculate costs, analyze usage patterns, and get optimization recommendations for OpenAI, Anthropic, Google, and Groq. Compare model prices and find cheaper alternatives.",
+  "price": "19",
+  "features": [
+    "Multi-provider cost tracking",
+    "OpenAI, Anthropic, Google, Groq",
+    "Usage analytics & breakdowns",
+    "Budget alerts & tier detection",
+    "Model comparison tool",
+    "Optimization recommendations"
+  ],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": 948,
+  "deployed_cycle": null,
+  "checkout_url": null,
+  "lemon_checkout_url": null
+}
